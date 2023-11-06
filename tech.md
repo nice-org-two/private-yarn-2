@@ -1,0 +1,51 @@
+<!--
+--- Readme.md Snippet without images Start ---
+## Tech Stack
+nice-org-two/private-yarn-2 is built on the following main stack:
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet without images End ---
+
+--- Readme.md Snippet with images Start ---
+## Tech Stack
+nice-org-two/private-yarn-2 is built on the following main stack:
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+
+Full tech stack [here](/tech.md)
+--- Readme.md Snippet with images End ---
+-->
+<div align="center">
+
+# Stack Report
+![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/private-yarn-2](https://github.com/nice-org-two/private-yarn-2)![](https://img.stackshare.io/public_badge.svg "public")
+<br/><br/>
+|2<br/>Tools used|1<br/>Contributors|11/06/23 <br/>Report generated|01/24/23<br/>Last commit date|
+|------|------|------|------|
+</div>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (2)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
+  <br>
+  <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'>
+  <br>
+  <sub><a href="https://yarnpkg.com/">Yarn</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+<br/>
+<div align='center'>
+
+Generated via [Stack Reports](https://stackshare.io/stack-report)
