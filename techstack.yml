@@ -1,7 +1,7 @@
 repo_name: nice-org-two/private-yarn-2
-report_id: e9224a81714ddc94d24064c06f62a55e
+report_id: ee03f1695816fbee65a3f261615ee0a2
 repo_type: Public
-timestamp: '2023-11-08T20:17:13+00:00'
+timestamp: '2023-11-10T16:27:52+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -25,3 +25,5 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
   detection_source: yarn.lock
+  last_updated_by: bob-wise0
+  last_updated_on: 2023-01-24 06:06:32.000000000 Z
