@@ -1,7 +1,8 @@
 repo_name: nice-org-two/private-yarn-2
-report_id: c9a2fb167990e0c6ebb4f742adcfe60b
+report_id: 271cafd13d118f66f0b27142f09aea09
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-13T18:03:50+00:00'
+timestamp: '2024-03-17T09:02:35+00:00'
 requested_by: bob-wise0
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nice-org-two/private-yarn-2
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -24,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/nice-org-two/private-yarn-2/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: bob-wise0
   last_updated_on: 2023-01-24 06:06:32.000000000 Z
