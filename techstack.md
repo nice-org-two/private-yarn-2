@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/private-yarn-2](https://github.com/nice-org-two/private-yarn-2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|03/17/24 <br/>Report generated|
+|2<br/>Tools used|03/28/24 <br/>Report generated|
 |------|------|
 </div>
 
